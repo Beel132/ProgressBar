@@ -14,7 +14,7 @@ It has **Dark mode**! You can use dark mode if you like it more.
 
 ---
 
-And for sure, it's responsive
+<h3>And for sure, it's responsive</h3>
 
 ![Responsive page view](https://imgur.com/Kd8TZaN.png)
 
