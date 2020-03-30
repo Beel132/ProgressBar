@@ -1,4 +1,4 @@
-# Progress bar (Mode toggle)
+# Progress bar `Mode toggle`
 
 Hey! I made a progress bar, where you can click a button, and it changes the progress bar's length.
 
